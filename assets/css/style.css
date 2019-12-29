@@ -8979,6 +8979,22 @@ blockquot {
   padding: 187px 0 190px;
 }
 
+/* counter datos correccion z-index */
+
+.counter-datos{
+  z-index: 1;
+}
+.counter-datos:before{
+  position: absolute;
+  left: 0;
+  top: 0;
+  content: "";
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+}
+
 /* counter #3 */
 .counter-3 .count-box .count-title {
   color: #999999;
