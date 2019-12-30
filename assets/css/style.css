@@ -1461,7 +1461,7 @@ section {
 }
 
 .bg-parallax {
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
 }
 
 .bg-ytvideo.bg-overlay:before {
