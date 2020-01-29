@@ -118,6 +118,10 @@ custom.css and it will override the style in this file. You have been warned! :)
 body,
 html {
   overflow-x: hidden;
+  -webkit-perspective: 0px !important;
+3
+-webkit-backface-visibility: visible !important;
+
 }
 
 html {
