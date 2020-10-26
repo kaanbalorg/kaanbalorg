@@ -15,7 +15,7 @@
 
   const comunidades = [{
     'sede': 'Telesecundaria y Telebachillerato Dimas Sansores',
-    'foto': 'assets/img/aguaazul.jpg',
+    'foto': './src/img/aguaazul.jpg',
     'comunidad': 'Agua Azul',
     'municipio': 'Lázaro Cárdenas',
     'estado': 'Quintana Roo',
@@ -25,7 +25,7 @@
     'longitud': -87.32548,
   }, {
     'sede': 'Cooperativa Apícola Muuch Kaab',
-    'foto': 'assets/img/juarez.jpg',
+    'foto': './src/img/juarez.jpg',
     'comunidad': 'Los Juárez',
     'municipio': 'Lázaro Cárdenas',
     'estado': 'Quintana Roo',
@@ -35,7 +35,7 @@
     'longitud': -87.33118,
   }, {
     'sede': 'Centro Comunitario Wayak',
-    'foto': 'assets/img/mahahual.jpg',
+    'foto': './src/img/mahahual.jpg',
     'comunidad': 'Mahahual',
     'municipio': 'Mahahual',
     'estado': 'Quintana Roo',
@@ -45,7 +45,7 @@
     'longitud': -87.70802,
   }, {
     'sede': 'Telesecundaria Ramón Bravo Prieto',
-    'foto': 'assets/img/puertomorelos.jpg',
+    'foto': './src/img/puertomorelos.jpg',
     'comunidad': 'Puerto Morelos',
     'municipio': 'Puerto Morelos',
     'estado': 'Quintana Roo',
@@ -55,7 +55,7 @@
     'longitud': -86.90256,
   }, {
     'sede': 'Telesecundaria Comunitaria',
-    'foto': 'assets/img/nuevotezoco.jpg',
+    'foto': './src/img/nuevotezoco.jpg',
     'comunidad': 'Nuevo Tezoco',
     'municipio': 'Tizimín',
     'estado': 'Yucatán',
@@ -65,7 +65,7 @@
     'longitud': -87.56062,
   }, {
     'sede': 'Telesecundaria Comunitaria',
-    'foto': 'assets/img/delirios.jpg',
+    'foto': './src/img/delirios.jpg',
     'comunidad': 'Delirios',
     'municipio': 'Lázaro Cárdenas',
     'estado': 'Quintana Roo',
@@ -75,7 +75,7 @@
     'longitud': -87.1461,
   }, {
     'sede': 'Telesecundaria Adolfo Ruiz Cortines',
-    'foto': 'assets/img/sanfrancisco.jpg',
+    'foto': './src/img/sanfrancisco.jpg',
     'comunidad': 'San Francisco Acazuchitlaltongo',
     'municipio': 'Polotitlán',
     'estado': 'Estado de México',

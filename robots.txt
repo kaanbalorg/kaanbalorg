@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: http://dev.kaanbal.org/sitemap.xml
+Sitemap: http://kaanbal.org/sitemap.xml
